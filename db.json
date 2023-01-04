@@ -1,0 +1,14 @@
+{
+  "customers": [
+    {
+      "phone": "8167500725",
+    }
+  ],
+  "session": [
+    {
+      "otpref": "",
+      "method": "firebase"
+    }
+  ]
+
+}
